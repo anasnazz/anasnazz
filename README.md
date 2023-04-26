@@ -1,4 +1,5 @@
-Altair Branch - Upcoming AI Project
+<string>Altair Branch - Upcoming AI Project</strong>
+
 Welcome to the Altair branch, an upcoming project related to AI!
 
 About
