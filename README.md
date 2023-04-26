@@ -1,5 +1,5 @@
 # **Altair - Upcoming AI Project**
-Welcome to the Altair, an upcoming project related to AI!
+Welcome to the Altair branch, an upcoming project related to AI!
 
 ### **About**
 The Altair branch is a preview of an upcoming project that explores the intersection of artificial intelligence and data analysis. This project is being developed by Anas and is intended to help businesses and individuals make better decisions based on insights generated from data.
