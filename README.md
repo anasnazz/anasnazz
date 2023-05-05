@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @anasnazz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
 
-<!---
-anasnazz/anasnazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Anas, a first-year Computer Science B.Tech student with a passion for full-stack development and a strong interest in the field of Artificial Intelligence. I'm constantly learning and exploring new technologies to improve my skills and stay up-to-date with the latest industry trends.
+
+#### 💻 Skills
+
+- Programming languages: Java, Python, C/C++, JavaScript
+- Front-end development: HTML, CSS, Jquery, Bootstrap
+- Back-end development: Node.js, Express.js, MongoDB
+
+#### 🌱 Currently Learning
+
+- Advanced algorithms and data structures
+- Deep Learning with TensorFlow and Keras
+- Cloud computing with AWS
+
+#### 🤝 Connect with me
+
+- LinkedIn: [anas-nazz](https://www.linkedin.com/in/anas-nazz/)
+- Instagram: [anas.nazz](https://www.instagram.com/anas.nazz/)
+- Email: [anastnazz@gmail.com](mailto:anastnazz@gmail.com)
+
