@@ -18,5 +18,5 @@ I'm Anas, a first-year Computer Science B.Tech student with a passion for full-s
 
 - LinkedIn: [anas-nazz](https://www.linkedin.com/in/anas-nazz/)
 - Instagram: [anas.nazz](https://www.instagram.com/anas.nazz/)
-- Email: [anastnazz@gmail.com](mailto:anastnazz@gmail.com)
+- Email: [mohdanast@icloud.com](mailto:anastnazz@gmail.com)
 
