@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anas, a first-year Computer Science B.Tech student with a passion for full-stack development and a strong interest in the field of Artificial Intelligence. I'm constantly learning and exploring new technologies to improve my skills and stay up-to-date with the latest industry trends.
+I'm Anas, a second-year Computer Science B.Tech student with a passion for full-stack development and a strong interest in the field of Artificial Intelligence. I'm constantly learning and exploring new technologies to improve my skills and stay up-to-date with the latest industry trends.
 
 #### 💻 Skills
 
