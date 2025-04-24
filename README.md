@@ -1,23 +1,33 @@
-<h1 align="center">Hi 👋, I'm Anas Nazz</h1>
-<h3 align="center">Fourth-year B.Tech CSE Student | Certified Penetration Tester | Chief Creative Officer at IEDC MEA</h3>
+<h1 align="center">Hi 👋, I'm Anas</h1>
+<h3 align="center">Fourth-year B.Tech Computer Science student | Full-Stack Developer | AI & Security Enthusiast</h3>
 
-<br>
-
-<p align="right">
-  <h3>Profile Views :-</h3>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=anas-nazz&label=Profile%20views&color=0e75b6&style=flat" alt="anas-nazz" />
 </p>
 
-<br>
+<table>
+  <tr>
+    <td>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="anas-nazz" /></p>
+- 🎓 I'm a **Certified Penetration Tester** and currently the **Chief Creative Officer at IEDC MEA**
+  
+- 🌱 I’m currently learning:
+  - Advanced algorithms and data structures  
+  - Deep Learning with TensorFlow and Keras  
+  - Computer Vision and image processing
 
-- 🌱 I’m currently learning Advanced Algorithms, Data Structures, and Computer Vision  
-- 👨‍💻 All of my projects are available at [https://github.com/anas-nazz](https://github.com/anas-nazz)  
-- 📫 How to reach me: **anastnazz@gmail.com**  
-- ⚡ Fun fact: I love blending tech with creativity — whether it's full-stack code or security exploits 🎨💻  
+- 📫 How to reach me: [mohdanast@icloud.com](mailto:mohdanast@icloud.com)
 
-<br>
+- ⚡ Fun fact: I believe creativity, learning, and coffee ☕ can build anything.
+
+   </td>
+   <td>
+     <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300" alt="coding gif"/>
+   </td>
+  </tr>
+</table>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +39,7 @@
   </a>
 </p>
 
-<br>
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
