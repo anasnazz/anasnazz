@@ -1,69 +1,79 @@
-<h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">Fourth-year B.Tech Computer Science student | Full-Stack Developer | AI & Security Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Anas Thottassery</h1>
+
+<h3 align="center">
+B.Tech Computer Science & Engineering Student · Software Developer · Security Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anas-nazz&label=Profile%20views&color=0e75b6&style=flat" alt="anas-nazz" />
+  <img src="https://komarev.com/ghpvc/?username=anasthottassery&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+---
 
 <table>
   <tr>
-    <td>
+    <td width="60%" valign="middle">
 
-- 🎓 I'm a **Certified Penetration Tester** and currently the **Chief Creative Officer at IEDC MEA**
-  
-- 🌱 I’m currently learning:
-  - Advanced algorithms and data structures  
-  - Deep Learning with TensorFlow and Keras  
-  - Computer Vision and image processing
+### 👨‍💻 About Me
 
-- 📫 How to reach me: [mohdanast@icloud.com](mailto:mohdanast@icloud.com)
+* 🎓 B.Tech Computer Science & Engineering student
+* 💻 Software developer
+* 🔐 Certified Penetration Tester
+* 🚀 Currently building **Relay**
+* 🌱 Exploring **Swift, networking & systems development**
+* ☕ I enjoy building things and understanding how they work
 
-- ⚡ Fun fact: I believe creativity, learning, and coffee ☕ can build anything.
+    </td>
 
-   </td>
-   <td>
-     <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300" alt="coding gif"/>
-   </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300" alt="Coding animation"/>
+    </td>
   </tr>
+
 </table>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/anas-nazz/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-nazz" height="30" width="40" />
+### 🚀 Currently Building
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,apple" height="42" alt="Swift and Apple"/>
+</p>
+
+**Relay** — A real-time device-to-device communication project exploring Bluetooth, Wi-Fi, networking, and transport-layer design.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,swift,java,python,js,react,git,apple,arduino,raspberrypi,linux&perline=6" alt="Languages and Tools"/>
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://anasthottassery.github.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=googlechrome" width="42" alt="Portfolio"/>
   </a>
-  <a href="https://www.instagram.com/anas.nazz/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas.nazz" height="30" width="40" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anasthottassery/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOUR_CURRENT_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anasthottassery" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Core Dev Tools -->
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://mui.com/" target="_blank"><img src="https://mui.com/static/logo.png" alt="MUI" width="40" height="40"/></a>
-
-  <!-- Embedded -->
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/></a>
-
-  <!-- Security Tools -->
-  <a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/></a>
-  <a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/radar.png" alt="Nmap" width="40" height="40"/></a>
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/lock--v1.png" alt="Metasploit" width="40" height="40"/></a>
-
-
-  <!-- Languages -->
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-
-  <!-- Design -->
-  <a href="https://www.photoshop.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
+<p align="center">
+  <i>Build. Break. Understand. Rebuild.</i>
 </p>
